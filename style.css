@@ -1,0 +1,29 @@
+    main {
+    background-image: url(night-photograph-g20f9c17b6_1920.jpg);
+    width: 850px;
+    height: 450px;
+    background-size: cover;
+    margin: auto; 
+}
+
+h1 {
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 175px;
+    letter-spacing: 50px; 
+    color: white;
+}
+
+.body-details {
+    width: 850px; 
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.social-media {
+    
+
+}
